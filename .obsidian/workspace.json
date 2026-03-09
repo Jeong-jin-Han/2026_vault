@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "2e75b4396adf0652",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cf7c2222b098a23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "204d2331ec0642e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026/2026 Spring/EE.30004, 전회/EE.30004, 전회.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EE.30004, 전회"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22024d8e84e2a951",
+    "type": "split",
+    "children": [
+      {
+        "id": "60e11a345d1e27dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f9b177f43a5259c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e225e3714eec3f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d5196fbf077abc31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ed927984569c3c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1e8f1ad60360197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60d0efc61307f157",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FPGA/PLAN/20260122.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20260122"
+            }
+          },
+          {
+            "id": "42b05e91a38b26e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FPGA/PLAN/20260122.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 20260122"
+            }
+          },
+          {
+            "id": "5a9db38b19b07773",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "92fda8c714dde39e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a1238c529428ad05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FPGA/PLAN/20260122.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 20260122"
+            }
+          },
+          {
+            "id": "05642e8b26113fc8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5f9b177f43a5259c",
+  "lastOpenFiles": [
+    "index.md",
+    "index.md.tmp.207129.1773043267149",
+    "2026/2026 Spring/CS.40907, 3DML/CS.40907, 3DML.md",
+    "2026/2026 Spring/CS.50010, AT/HW/CS510_HW1.md",
+    "2026/2026 Spring/NQE.50039/TODO.md",
+    "2026/2026 Spring/NQE.50039/NQE.50039.md",
+    "2026/2026 Spring/CS.40907, 3DML/TODO.md",
+    "2026/2026 Spring/EE.50009, 논문작성/EE.50009.md",
+    "2026/2026 Spring/EE.30004, 전회/TODO.md",
+    "2026/2026 Spring/EE.40063, 반집기/TODO.md",
+    "NQE539_HW1.md",
+    "2026/2026 Spring/NQE.50039/Exam",
+    "2026/2026 Spring/NQE.50039/HW/NQE539_HW3.md",
+    "2026/2026 Spring/NQE.50039/HW/NQE539_HW2.md",
+    "2026/2026 Spring/NQE.50039/HW/NQE539_HW1.md",
+    "2026/2026 Spring/NQE.50039/HW",
+    "2026/2026_extra/Pasted image 20260308204323.png",
+    "2026/2026_extra/Pasted image 20260308204311.png",
+    "2026/2026 Spring/EE.40063, 반집기/EE.40063, 반집기.md",
+    "2026/2026 Spring/EE.30004, 전회/EE.30004, 전회.md",
+    "2026/2026 Spring/EE.30003, 디시/EE.30003, 디시.md",
+    "2026/2026 Spring/CS.50010, AT/CS.50010, AT.md",
+    "2026/2026_extra/Pasted image 20260308204200.png",
+    "2026/2026 Spring/EE.40063, 반집기/Project",
+    "2026/2026_extra/Pasted image 20260308204034.png",
+    "2026/2026 Spring/EE.30004, 전회/HW",
+    "2026/2026 Spring/EE.30004, 전회/Untitled.md",
+    "2026/2026_extra/Pasted image 20260308203616.png",
+    "2026/2026_extra/Pasted image 20260308203557.png",
+    "2026/2026_extra/Pasted image 20260308203452.png",
+    "2026/2026_extra/Pasted image 20260308203333.png",
+    "2026/2026_extra/Pasted image 20260308203248.png",
+    "2026/2026_extra/Pasted image 20260308203234.png",
+    "2026/2026 Spring/EE.30003, 디시/TODO.md",
+    "2026/2026 Spring/CS.50010, AT/TODO.md",
+    "2026/2026 Spring/CS.40907, 3DML/HW/CS479_HW4.md",
+    "2026/2026 Spring/CS.40907, 3DML/HW/CS479_HW3.md",
+    "2026/2026 Spring/CS.40907, 3DML/HW/CS479_HW2.md",
+    "2026/2026 Spring/CS.40907, 3DML/HW/CS479_HW1.md",
+    "2026/2026 Spring/CS.40907, 3DML/HW",
+    "2026/2026 Spring/CS.50010, AT/HW/CS510_HW3.md",
+    "2026/2026 Spring/CS.50010, AT/HW/CS510_HW2.md",
+    "Untitled",
+    "2026/2026 Spring/CS.50010, AT/HW",
+    "2026/2026 Spring/CS.40907, 3DML/Group Project/Daliy Log",
+    "2026/2026 Spring/CS.40907, 3DML/Group Project",
+    "2026/My study/FPGA/PLAN.canvas",
+    "Untitled.canvas"
+  ]
+}

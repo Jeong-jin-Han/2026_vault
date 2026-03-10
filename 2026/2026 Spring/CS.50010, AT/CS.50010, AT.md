@@ -16,11 +16,13 @@
 >[[CS510_HW3]]
 >
 
-
 >[!Question]-
 
 >[!TODO]-
 >[[2026/2026 Spring/CS.50010, AT/TODO|TODO]]
 
+>[!Exam]-
+>
 
-
+>[!VM]-
+>kaisthjj

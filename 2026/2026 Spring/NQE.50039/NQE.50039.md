@@ -9,11 +9,3 @@
 
 >[!TODO]-
 >[[2026/2026 Spring/NQE.50039/TODO|TODO]]
-
->[!Exam]-
-
-
-
-
-
-

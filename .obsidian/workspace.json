@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8cf7c2222b098a23",
+        "id": "532146fddb6f08e7",
         "type": "tabs",
         "children": [
           {
-            "id": "204d2331ec0642e0",
+            "id": "b0e01dee2a2ee831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/2026 Spring/CS.50010, AT/CS.50010, AT.md",
+                "file": "2026/2026 Spring/CS.40907, 3DML/Lecture/Lecture 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS.50010, AT"
+              "title": "Lecture 2"
+            }
+          },
+          {
+            "id": "7a83ba346972dcfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026/2026 Spring/EE.40063, 반집기/Lecture/3. Oxidation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Oxidation"
             }
           }
         ]
@@ -180,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,17 +208,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "204d2331ec0642e0",
+  "active": "b0e01dee2a2ee831",
   "lastOpenFiles": [
+    "2026/2026 Spring/CS.40907, 3DML/Lecture/Lecture 3.md",
+    "2026/2026 Spring/EE.40063, 반집기/Lecture/3. Oxidation.md",
+    "2026/2026 Spring/CS.40907, 3DML/Lecture/Lecture 2.md",
+    "2026/Untitled.md",
+    "2026/2026 Spring/EE.40063, 반집기/Lecture/2. Basics ans Wafer.md",
+    "2026/2026 Spring/CS.40907, 3DML/Lecture",
+    "2026/2026 Spring/EE.30004, 전회/TODO.md",
+    "2026/2026 Spring/NQE.50039/PLAN/NQE539 plan.md",
+    "2026/2026 Spring/EE.30003, 디시/Lecture/Chapter 1.md",
+    "2026/2026 Spring/EE.40063, 반집기/Lecture",
+    "2026/2026 Spring/NQE.50039/PLAN",
+    "2026/2026 Spring/EE.30004, 전회/EE.30004, 전회.md",
+    "2026/yourImageEmbedHere.md",
+    "2026/2026 Spring/CS.50010, AT/CS.50010, AT.md",
+    "2026/2026 Spring/EE.30003, 디시/EE.30003, 디시.md",
+    "2026/2026 Spring/EE.30003, 디시/Lecture",
+    "2026/2026 Spring/NQE.50039/HW/NQE539_final.md",
+    "2026/2026 Spring/NQE.50039/HW/NQE539_mid.md",
+    "2026/2026 Spring/NQE.50039/NQE.50039.md",
+    "2026/2026 Spring/EE.40063, 반집기/EE.40063, 반집기.md",
     "2026/2026 Spring/EE.50009, 논문작성/EE.50009.md",
     "2026/2026 Spring/EE.40063, 반집기/Exam/OTL review.md",
     "2026/2026 Spring/EE.30004, 전회/Exam/OTL review.md",
-    "2026/2026 Spring/NQE.50039/NQE.50039.md",
     "2026/2026 Spring/NQE.50039/TODO.md",
-    "2026/2026 Spring/EE.40063, 반집기/EE.40063, 반집기.md",
-    "2026/2026 Spring/EE.30004, 전회/EE.30004, 전회.md",
-    "2026/2026 Spring/EE.30003, 디시/EE.30003, 디시.md",
-    "2026/2026 Spring/CS.50010, AT/CS.50010, AT.md",
     "2026/2026 Spring/CS.40907, 3DML/CS.40907, 3DML.md",
     "2026/2026 Spring/CS.40907, 3DML/Exam",
     "2026/2026 Spring/CS.50010, AT/Exam",
@@ -216,32 +245,17 @@
     "index.md.tmp.207129.1773043267149",
     "2026/2026 Spring/CS.50010, AT/HW/CS510_HW1.md",
     "2026/2026 Spring/CS.40907, 3DML/TODO.md",
-    "2026/2026 Spring/EE.30004, 전회/TODO.md",
     "2026/2026 Spring/EE.40063, 반집기/TODO.md",
-    "2026/2026 Spring/NQE.50039/Exam",
-    "2026/2026 Spring/NQE.50039/HW/NQE539_HW3.md",
-    "2026/2026 Spring/NQE.50039/HW/NQE539_HW2.md",
-    "2026/2026 Spring/NQE.50039/HW/NQE539_HW1.md",
-    "2026/2026 Spring/NQE.50039/HW",
     "2026/2026_extra/Pasted image 20260308204323.png",
     "2026/2026_extra/Pasted image 20260308204311.png",
     "2026/2026_extra/Pasted image 20260308204200.png",
-    "2026/2026 Spring/EE.40063, 반집기/Project",
     "2026/2026_extra/Pasted image 20260308204034.png",
-    "2026/2026 Spring/EE.30004, 전회/HW",
-    "2026/2026 Spring/EE.30004, 전회/Untitled.md",
     "2026/2026_extra/Pasted image 20260308203616.png",
     "2026/2026_extra/Pasted image 20260308203557.png",
     "2026/2026_extra/Pasted image 20260308203452.png",
     "2026/2026_extra/Pasted image 20260308203333.png",
     "2026/2026_extra/Pasted image 20260308203248.png",
     "2026/2026_extra/Pasted image 20260308203234.png",
-    "2026/2026 Spring/EE.30003, 디시/TODO.md",
-    "2026/2026 Spring/CS.50010, AT/TODO.md",
-    "2026/2026 Spring/CS.40907, 3DML/HW/CS479_HW4.md",
-    "2026/2026 Spring/CS.40907, 3DML/HW/CS479_HW3.md",
-    "2026/2026 Spring/CS.40907, 3DML/HW/CS479_HW2.md",
-    "2026/2026 Spring/CS.40907, 3DML/HW/CS479_HW1.md",
     "2026/My study/FPGA/PLAN.canvas",
     "Untitled.canvas"
   ]

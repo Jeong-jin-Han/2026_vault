@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0e01dee2a2ee831",
+  "active": "05642e8b26113fc8",
   "lastOpenFiles": [
     "2026/2026 Spring/CS.40907, 3DML/Lecture/Lecture 3.md",
     "2026/2026 Spring/EE.40063, 반집기/Lecture/3. Oxidation.md",
